@@ -1,4 +1,4 @@
-![logo](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
+![logo](https://miro.medium.com/max/1100/0*1geNIsiclzJROVrH.png)
 <h1 align="center">Hi 👋, I'm Varma Prasad S</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
 
