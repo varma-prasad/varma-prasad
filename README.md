@@ -1,4 +1,4 @@
-![logo](https://www.netic.dk/wp-content/uploads/2018/11/Line-web-banner-for-artificial-intelligence-1-1024x370.png)
+![logo](https://www.hydrologic.com/files/banner-artificial-intelligence.jpg)
 <h1 align="center">Hi 👋, I'm Varma Prasad S</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
 
