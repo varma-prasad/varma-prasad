@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/max/1100/0*1geNIsiclzJROVrH.png)
+![logo](https://www.hydrologic.com/files/banner-artificial-intelligence.jpg)
 <h1 align="center">Hi 👋, I'm Varma Prasad S</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
 
