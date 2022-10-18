@@ -1,5 +1,8 @@
+![logo](https://www.netic.dk/wp-content/uploads/2018/11/Line-web-banner-for-artificial-intelligence-1-1024x370.png)
 <h1 align="center">Hi 👋, I'm Varma Prasad S</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
+
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47a1ci6chxnck5hemow3x3ugxnmvpbh093jnh495je&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varma-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="varma-prasad" /> </p>
 
