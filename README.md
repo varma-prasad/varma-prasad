@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science, Data Analytics**
 
-- 👯 I’m looking to collaborate on **Technologies to create Innovation**
+- 👯 I’m looking to collaborate on **Data Analytics**
 
 - 📫 How to reach me **varmaprasadvp@gmail.com**
 
