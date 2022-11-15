@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **varmaprasadvp@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pLfdf-u4hYHtDz0Hwbf_DI5uz-UB-4Yr/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jCEfTJU-UwSj9QnwLdFNIpmeoyGF1xQx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
