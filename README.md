@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varma-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="varma-prasad" /> </p>
 
-- 🔭 I’m currently working on [SQL for Analytics](https://github.com/varma-prasad/SQL-for-Analytics)
+- 🔭 Project worked on [SQL for Analytics](https://github.com/varma-prasad/SQL-for-Analytics)
 
 - 🌱 I’m currently learning **SQL, ETL, Data Analytics**
 
@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w9k5p283zqBJpC675FFrCgc4g-HI1aem/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/varma-prasad-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varma-prasad-s" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/varma-prasad-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varma-prasad-s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
