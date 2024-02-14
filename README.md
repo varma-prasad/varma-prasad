@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SQL, ETL, Power BI, Data Analytics**
 
-- 👯 I’m looking to collaborate on **Data Analyst, SQL Developer, ETL QA,**
+- 👯 I’m looking to collaborate on **Data Analyst, SQL Developer, ETL QA**
 
 - 📫 How to reach me **varmaprasadvp@gmail.com**
 
