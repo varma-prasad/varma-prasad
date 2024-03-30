@@ -8,7 +8,7 @@
 
 - 🔭 Projects : [Election Analysis](https://github.com/varma-prasad/Lok-sabha-Analysis) | [ETL Pipeline](https://github.com/varma-prasad/ETL-Pipeline) | [Python Automation](https://github.com/varma-prasad/ETL-Validation-with-python-scripting) | [ETL Transformations](https://github.com/varma-prasad/ETL-Transformations) | [SuperMart Analysis](https://github.com/varma-prasad/SuperMart-Analysis) | [IPL Analysis](https://github.com/varma-prasad/IPL-Analysis/blob/main/README.md) | [SQL for Analytics](https://github.com/varma-prasad/SQL-for-Analytics) | 
 
-- 🌱 I’m currently learning **SQL, ETL, Power BI, Data Analytics**
+- 🌱 I’m currently learning **SQL, ETL, Power BI, Data Analytics, Data Engineering**
 
 - 👯 I’m looking to collaborate on **Data Analyst, SQL Developer, ETL Development, ETL QA**
 
