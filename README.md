@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/C4D16AQFuZXxRClbNYw/profile-displaybackgroundimage-shrink_350_1400/0/1517045652546?e=1710979200&v=beta&t=c-uVXnEIsOw5D5h6wDSnknM97TB0PRUcceYA0t6_FPw)
+![logo](https://cerebra-consulting.com/wp-content/uploads/2019/10/Big-Data-Background.jpg)
 <h1 align="center">Hi 👋, I'm Varma Prasad S</h1>
 <h3 align="center">Data Enthusiast</h3>
 
