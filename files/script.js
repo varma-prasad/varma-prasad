@@ -1,6 +1,6 @@
 
 var typed = new Typed(".text", {
-    strings: ["Data Analytics" , "Data Engineering" , "Database Development", "Quality Assurance"],
+    strings: ["Data Analytics" , "ETL Development" , "Database Development", "Quality Assurance"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
