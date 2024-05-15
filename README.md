@@ -1,16 +1,17 @@
-![logo](https://cerebra-consulting.com/wp-content/uploads/2019/10/Big-Data-Background.jpg)
+
 <h1 align="center">Hi 👋, I'm Varma Prasad S</h1>
 <h3 align="center">Data Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47a1ci6chxnck5hemow3x3ugxnmvpbh093jnh495je&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varma-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="varma-prasad" /> </p>
-
-- 🔭 Projects : [Election Analysis](https://github.com/varma-prasad/Lok-sabha-Analysis) | [ETL Pipeline](https://github.com/varma-prasad/ETL-Pipeline) | [Python Automation](https://github.com/varma-prasad/ETL-Validation-with-python-scripting) | [ETL Transformations](https://github.com/varma-prasad/ETL-Transformations) | [SuperMart Analysis](https://github.com/varma-prasad/SuperMart-Analysis) | [IPL Analysis](https://github.com/varma-prasad/IPL-Analysis/blob/main/README.md) | [SQL for Analytics](https://github.com/varma-prasad/SQL-for-Analytics) | 
+<h3 align="left">About Me:</h3>
 
 - 🌱 I’m currently learning **SQL, ETL, Power BI, Data Analytics, Data Engineering**
 
 - 👯 I’m looking to collaborate on **Data Analyst, SQL Developer, ETL Development, ETL QA**
+  
+- 🔭 Projects : [IPL Analytics](https://github.com/varma-prasad/IPL-Analytics) | [Election Analysis](https://github.com/varma-prasad/Lok-sabha-Analysis) | [ETL Pipeline](https://github.com/varma-prasad/ETL-Pipeline) | [Python Automation](https://github.com/varma-prasad/ETL-Validation-with-python-scripting) | [ETL Transformations](https://github.com/varma-prasad/ETL-Transformations) | [SuperMart Analysis](https://github.com/varma-prasad/SuperMart-Analysis) | [IPL Analysis](https://github.com/varma-prasad/IPL-Analysis/blob/main/README.md) | [SQL for Analytics](https://github.com/varma-prasad/SQL-for-Analytics) | 
 
 - 📫 How to reach me **varmaprasadvp@gmail.com**
 
